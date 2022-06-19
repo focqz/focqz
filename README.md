@@ -1,7 +1,7 @@
-- Hi, I’m @focqz
+- Hi, I’m @focqz aka Justin
 - I’m interested in learning from those around me.
 - I’m currently learning javascript.
-- I’m looking to collaborate on anything that you would let me assist in. While I'm not very experienced, I am good with detail and efficiency.
+- While not very experienced, I am good with detail and efficiency.
 - 📫 How to reach me justin@adepartment.com
 
 <!---
